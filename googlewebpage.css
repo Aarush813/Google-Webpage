@@ -1,0 +1,48 @@
+#about {
+    padding-left: 15px;
+  }
+  #store {
+    margin-left: 15px;
+  }
+  .para {
+    display: inline;
+    opacity: 0.70;
+  }
+  .img {
+    padding-top: 90px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .searchBar {
+    border-radius: 20px;
+    margin-left: 800px;
+    width: 450px;
+    height: 30px;
+    opacity: 0.20;
+    border: 1px solid black;
+    
+  }
+  
+  .resize {
+    width: 230px;
+    height: auto;
+  }
+  .advertising {
+    margin-top: 347px;
+    padding-left: 20px;
+    background-color: #f2f2f2;
+    opacity: 0.8;
+  }
+  .business {
+    margin-top: -34px;
+    padding-left: 120px;
+    opacity: 0.70;
+  }
+  .howSearch {
+    margin-top: -34px;
+    padding-left: 200px;
+  }
+  .div {
+    display: inline;
+  }
+  
